@@ -1,2 +1,2 @@
 # hello-world
-This repository is a test for me to learn Git.
+I'm a student exploring the interesting things I come across. Besides coding (say: trying to) I like reading and writing both poems and stories.
